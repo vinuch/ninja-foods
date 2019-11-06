@@ -1,0 +1,11 @@
+{
+  "name": "new-pwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "http-server -p 1338 build -c-1"
+  },
+  "author": "",
+  "license": "ISC"
+}
